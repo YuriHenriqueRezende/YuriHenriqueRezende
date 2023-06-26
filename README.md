@@ -12,9 +12,9 @@
 
 ### Recent Projects
 
-- Calculadora Polinomios do Segundo Grau e Apresentação de Grafficos 
-- Interface de conexao do Arduino com Python
--
+- Second Degree Polynomials Calculator and Graph Presentation 
+- Arduino connection interface with Python
+  
 
 ---
 
