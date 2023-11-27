@@ -6,7 +6,7 @@
 
 - 💻 Future Full-Stack Web Developer
 - ⚙ Python/Mysql/Arduino Developer
-- 💬 Currently available, projects and meeting committee I am at your disposal
+- 💬 Currently available for projects, meetings and work, I am at your disposal!
 
  ---
 
