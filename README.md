@@ -14,7 +14,7 @@
 
 - Second Degree Polynomials Calculator and Graph Presentation 
 - Arduino connection interface with Python
-  
+- Python tkinter graphical interface interconnected with MySQL
 
 ---
 
