@@ -27,11 +27,6 @@
 
 And many others! I have 4 years of experience in systems analysis and development, currently hireable.
 
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/1259202816363204628?simple=true)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/1259202816363204628)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/1259202816363204628)
-![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/1259202816363204628)
-
 ---
 
 <p align="center">
@@ -39,15 +34,18 @@ And many others! I have 4 years of experience in systems analysis and developmen
 </p>
 
 <p align="center">
-  <img width="24" src="https://github.com/YuriHenriqueRezende/YuriHenriqueRezende/blob/main/other/discord.svg" alt="discord">
-  <br>  
-    <i>yuri_rezende</i>
-<br><br>
-<br><br>
-    <a href="mailto:yuri.henrique.rezende@outlook.com.br" alt="Email"><img src="https://github.com/YuriHenriqueRezende/YuriHenriqueRezende/blob/main/other/email.png" alt="email"></a>
-    <br> 
-    <i>yuri.henrique.rezende@outlook.com.br</i>
+  <!-- Badge do Discord com Lanyard -->
+  <img src="https://lanyard.cnrad.dev/api/1259202816363204628" alt="Discord Status">
+  <br><br><br><br>
+
+  <!-- Ícone de email e endereço -->
+  <a href="mailto:yuri.henrique.rezende@outlook.com.br" alt="Email">
+    <img src="https://github.com/YuriHenriqueRezende/YuriHenriqueRezende/blob/main/other/email.png" alt="email">
+  </a>
+  <br> 
+  <i>yuri.henrique.rezende@outlook.com.br</i>
 </p>
 
+<!-- Imagem de fundo -->
 <img src="https://github.com/YuriHenriqueRezende/YuriHenriqueRezende/blob/main/other/fundo.jpg" alt="fundo">
 
