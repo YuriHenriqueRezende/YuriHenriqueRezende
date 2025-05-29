@@ -30,7 +30,7 @@ And many others! I have 4 years of experience in systems analysis and developmen
 ---
 
 <p align="center">
-  <i>Contact me</i>
+  <i>Contact me discord or email:</i>
 </p>
 
 <p align="center">
