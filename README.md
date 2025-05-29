@@ -27,8 +27,6 @@
 
 And many others! I have 4 years of experience in systems analysis and development, currently hireable.
 
-### 💻 Meu status no Discord
-
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/1259202816363204628?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/1259202816363204628)
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/1259202816363204628)
