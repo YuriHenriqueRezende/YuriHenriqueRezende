@@ -21,7 +21,7 @@
 ### Knowledge
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,c,arduino,aws,azure,cpp,css,html,cypress,dart,discord,django,figma,flutter,gcp,github,grafana,java,js,latex,linux,matlab,mongodb,mysql,nginx,nodejs,npm,nuxtjs,pinia,powershell,pycharm,py,r,raspberrypi,sass,spring,sqlite,stackoverflow,terraform,ubuntu,vercel,vscode,vue,windows"/>
+    <img src="https://skillicons.dev/icons?i=git,docker,c,arduino,aws,azure,cpp,css,html,cypress,dart,discord,django,figma,flutter,gcp,github,grafana,java,js,latex,linux,ts,mongodb,mysql,nginx,nodejs,npm,nuxtjs,pinia,powershell,pycharm,py,r,raspberrypi,sass,spring,sqlite,stackoverflow,terraform,ubuntu,vercel,vscode,vue,windows"/>
   </a>
 </p>
 
