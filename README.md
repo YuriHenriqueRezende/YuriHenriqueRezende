@@ -4,8 +4,7 @@
 
 ### About me
 
-- 💻 Future Full-Stack Web Developer
-- ⚙ Python/Mysql/Arduino Developer
+- 💻 Full-Stack Web Developer
 - 💬 Currently available for projects, meetings and work, I am at your disposal!
 
  ---
